@@ -2,3 +2,5 @@
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+dataset_2_1_10k.hdf5
+checkpoints/
