@@ -1,6 +1,6 @@
 # Diffusion Models for Calorimeter Shower Generation
 
-A hands-on tutorial on **Diffusion Transformer (DiT)** for **High-Energy Physics (HEP)**, prepared for **The First Training School on Machine Learning & Quantum Computing for Future Colliders**.
+A hands-on tutorial on **Diffusion Transformer (DiT)** for **High-Energy Physics (HEP)**, prepared for **[The First Training School on Machine Learning & Quantum Computing for Future Colliders](https://indico.cern.ch/event/1696287/overview)**.
 
 ---
 
