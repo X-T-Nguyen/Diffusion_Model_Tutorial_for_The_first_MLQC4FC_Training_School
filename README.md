@@ -83,8 +83,8 @@ Required Python packages include
 Clone this repository
 
 ```bash
-git clone https://github.com/X-T-Nguyen/COST_CA242146_Diffusion_Model_Tutorial.git
-cd COST_CA242146_Diffusion_Model_Tutorial
+git clone https://github.com/X-T-Nguyen/Diffusion_Model_Tutorial_for_The_first_MLQC4FC_Training_School.git
+cd Diffusion_Model_Tutorial_for_The_first_MLQC4FC_Training_School
 ```
 
 Open
